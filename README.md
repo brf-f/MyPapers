@@ -1,2 +1,2 @@
-# ResearchPapers
- A collection of my research papers
+# MyPapers
+ A collection of papers written by me
